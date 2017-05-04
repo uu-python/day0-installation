@@ -23,3 +23,4 @@ Use [anaconda](https://www.continuum.io/downloads) to install python and its pac
 - numpy 
 - scipy
 - matplotlib
+- jupyter
