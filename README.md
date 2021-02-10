@@ -15,7 +15,7 @@ Use easy_install to install pip and pip to install the rest of the python packag
 ## Windows
 
 Install [git for windows](https://git-scm.com/download/win). This provides both git and a bash shell for basic commands.
-Use [anaconda](https://www.continuum.io/downloads) to install python and its packages.
+Use [anaconda](https://www.anaconda.com/products/individual) to install python and its packages.
 
 
 ## List of essential Python libraries
